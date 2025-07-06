@@ -1,6 +1,9 @@
 # Solar System Simulation
 
 A 3D OpenGL-based solar system simulation that demonstrates the orbital mechanics of planets around the Sun, including Earth's Moon. This project provides an interactive visualization of our solar system with realistic relative speeds and distances.
+## demo
+https://github.com/user-attachments/assets/c827ba26-8ef5-4631-b7f5-41eee541fab6
+
 
 ## 🌟 Features
 
